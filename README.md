@@ -42,5 +42,5 @@ Obrigado por comprar conosco!
 ```
 
 ---
-**Autor:** *Seu Ricardo*
+**Autor:** *Ricardo*
 
